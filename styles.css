@@ -1,0 +1,22 @@
+
+.chocopizza {
+  width: 80%;
+  height: 300px;
+  margin: auto;
+}
+
+.chocopizzaimg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+ }
+ .recipelist {
+  width: 80%;
+  height: 300px;
+  margin: auto;
+ }
+
+ .pelements {
+  text-align: center;
+ }
+
