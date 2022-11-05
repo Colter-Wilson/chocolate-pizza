@@ -1,7 +1,10 @@
+body {
+  margin-left: 10%;
+  margin-right: 10%;
+}
 
 .chocopizza {
-  width: 80%;
-  height: 300px;
+  width: 100%;
   margin: auto;
 }
 
@@ -10,13 +13,38 @@
   height: 100%;
   object-fit: cover;
  }
- .recipelist {
-  width: 80%;
+
+ .recipelistimg {
+  width: 100%;
   height: 300px;
   margin: auto;
  }
 
- .pelements {
-  text-align: center;
+ button {
+  width: 100px;
+  height: 40px;
+  float: right;
+  display: inline-block;
+  margin-top: -100px;
  }
 
+
+ h3 {
+  /* display: inline-block; */
+
+ }
+
+ .vanessap {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  left: 80px;
+  bottom: 75px;
+  margin-top: 0;
+  margin-bottom: 0;
+ }
+
+ #logo {
+  display: block;
+  margin: auto;
+ }
